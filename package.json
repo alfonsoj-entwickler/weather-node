@@ -1,0 +1,19 @@
+{
+  "name": "weather-node",
+  "version": "0.0.1",
+  "description": "Weather App with node and Api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "alfonsoj-entwickler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.1.4",
+    "inquirer": "^9.2.7"
+  }
+}
